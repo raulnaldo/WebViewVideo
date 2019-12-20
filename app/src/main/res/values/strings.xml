@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asistencia Senior</string>
+    <string name="title_IvrP">IvrP</string>
+    <string name="title_TokBox">TokBox</string>
+    <string name="title_Qvga">Qvga</string>
+    <string name="title_Vga">Vga</string>
+    <string name="title_Hd">HD</string>
+    <string name="title_Refresh">Refresh</string>
+    <string name="title_Exit">Exit</string>
+</resources>
